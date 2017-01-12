@@ -126,7 +126,7 @@ for (i in 1:length(ind_det)){
 save(all_aic,all_formula,file='modselursus.RData')
 
 # get AICs
-load('modselursus.RData')
+load('modselursus.RData') # get the file from https://dl.dropboxusercontent.com/u/23160641/modselursus.RData
 ord=order(unlist(all_aic))
 head(unlist(all_aic)[ord],100)
 tail(unlist(all_aic)[ord],100)
