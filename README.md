@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/78784550.svg)](https://zenodo.org/badge/latestdoi/78784550)
+
 Brown bear habitat use in the French Pyrenees: a dynamic occupancy modelling analysis
 ==================================================
 
